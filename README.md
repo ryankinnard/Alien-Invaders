@@ -1,2 +1,2 @@
-# alien_invasion
+# Alien Invaders
 An alien invasion game
