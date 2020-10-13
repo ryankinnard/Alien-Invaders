@@ -8,7 +8,7 @@ If you have the correct verison of python and pygame installed you can run the g
 <pre>
 <code>
   cd Alien-Invaders
-  python alien_invasion.p
+  python alien_invasion.py
 </code>
 </pre>
 
