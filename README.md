@@ -3,7 +3,7 @@ Inspired by "Spacer Invaders" this game is built with Python using the Pygame li
 
 <h1>How to play</h1>
 
-If you have the correct verison of python and pygame installed you can run the game in the command line. To play enter the following:
+If you have the correct verison of python and pygame installed you can run the game in the command line. To play, enter the following:
 
 <pre>
 <code>
