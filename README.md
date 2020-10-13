@@ -3,7 +3,7 @@ An alien invasion game. Inspired by "Spacer Invaders" this game is built with Py
 
 <h1>How to play</h1>
 
-Use the arrow keys to move left and right and the space bar to shoot. If you have the correct verison of python and pygame installed you can run the game in the command line. To play enter the following:
+If you have the correct verison of python and pygame installed you can run the game in the command line. To play enter the following:
 
 <pre>
 <code>
@@ -11,4 +11,6 @@ Use the arrow keys to move left and right and the space bar to shoot. If you hav
   python alien_invasion.p
 </code>
 </pre>
+
+Use the arrow keys to move left and right and the space bar to shoot. 
 
