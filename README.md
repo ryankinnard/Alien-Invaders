@@ -1,5 +1,5 @@
 # Alien Invaders
-Inspired by "Spacer Invaders" this game is built with Python using the Pygame libray. Alien Invaders has the user defeat a cascading line of aliens by shooting bullets with their ship from the bottom of the screen. The game features progessively challenging levels and a score tracker. 
+Inspired by "Spacer Invaders" this game is built with Python using the Pygame libray. Alien Invaders has the user defeat a cascading line of aliens by shooting bullets with their ship from the bottom of the screen. The game features progressively challenging levels and a score tracker. 
 
 <h1>How to play</h1>
 
