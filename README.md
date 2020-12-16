@@ -15,7 +15,7 @@ If you have the correct verison of python and pygame installed you can run the g
 Use the arrow keys to move left and right and the space bar to shoot.
 
 <h2>Demo</h2>
-<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='images/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
