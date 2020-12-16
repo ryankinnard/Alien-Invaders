@@ -14,5 +14,8 @@ If you have the correct verison of python and pygame installed you can run the g
 
 Use the arrow keys to move left and right and the space bar to shoot.
 
-![Screenshot](https://github.com/ryankinnard/Alien-Invaders/blob/main/images/Screenshot%20alien.png)
+<h2>Demo</h2>
+<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
